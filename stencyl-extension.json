@@ -1,0 +1,17 @@
+{
+  "group": "com.polydes.byrobin",
+  "id": "spinehaxe",
+  "name": "Spine",
+  "description": "Supports skeleton animations made in Spine.",
+  "tags": ["graphics"],
+  "type": "game",
+  "author": "bendmorris, Robin Schaafsma",
+  "website": "https://www.polydes.com/byrobingames/engine/spinehaxe",
+  "repository": "https://www.polydes.com/byrobingames",
+  "target": "stencyl-4.2.0",
+  "version": "0.1.0",
+
+  "icon": "icon.png",
+
+  "engine": {}
+}

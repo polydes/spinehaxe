@@ -1,6 +1,0 @@
-name=SpineHaxe 0.0.5 (byRobin)
-description=Supports skeleton animations made in Spine.
-author=bendmorris (byRobin made it work for Stencyl
-website=http://byrobingames.com
-version=0.0.5
-compatibility=all

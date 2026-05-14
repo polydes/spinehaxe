@@ -12,12 +12,6 @@ Stencyl extension for “Spine” (http://esotericsoftware.com) for All Platform
 
 - Spine Skeleton Support
 
-### How to Install
-
-Downlad latest version here: https://github.com/byrobingames/spinehaxe/releases
-
-Install the zip file: Go to : http://community.stencyl.com/index.php/topic,30432.0.html
-
 ### Documentation and Block Examples
 
 [See WIKI page](https://github.com/byrobingames/spinehaxe/wiki/Spinehaxe-wiki-for-Stencyl!)
@@ -40,20 +34,6 @@ Download extras folder here: [https://github.com/byrobingames/spinehaxe/releases
 - 2017-02-19 (0.0.3) Added 5 new blocks (Clear track with nummer, Clear All tracks, Set Skin, Get Skin, Set Attachment on Slot.)
 - 2017-02-19 (0.0.4) Fix error on block Get Skin
 - 2019-07-03 (0.0.5) Fix for Haxe 4>
-
-## Submitting a Pull Request
-
-This software is opensource.<br/>
-If you want to contribute you can make a pull request
-
-Repository: [https://github.com/byrobingames/spinehaxe](https://github.com/byrobingames/spinehaxe)
-
-Need help with a pull request?<br/>
-[https://help.github.com/articles/creating-a-pull-request/](https://help.github.com/articles/creating-a-pull-request/)
-
-## Donate
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKLGFCAGKBMFL)<br />
 
 ## License
 
