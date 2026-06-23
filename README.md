@@ -27,14 +27,6 @@ Download extras folder here: [https://github.com/byrobingames/spinehaxe/releases
 [Lesson 4](https://github.com/byrobingames/spinehaxe/wiki/Lesson-4:-Set-Add-Animation)<br/>
 [Lesson 5](https://github.com/byrobingames/spinehaxe/wiki/Lesson-5:-Flip-Spine-animation-on-x-or-y)
 
-### Version History
-
-- 2017-01-20 (0.0.1) First release
-- 2017-02-14 (0.0.2) Updated Set and Add animation blocks to set Tracknummer.
-- 2017-02-19 (0.0.3) Added 5 new blocks (Clear track with nummer, Clear All tracks, Set Skin, Get Skin, Set Attachment on Slot.)
-- 2017-02-19 (0.0.4) Fix error on block Get Skin
-- 2019-07-03 (0.0.5) Fix for Haxe 4>
-
 ## License
 
 Author: Robin Schaafsma
